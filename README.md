@@ -3,13 +3,13 @@ topic: HTML Hello World
 languages:
   - HTML
 products:
-  - Azure App Service
-  - Azure Web Apps
+  - Azure Load Balancer
+  - Azure CDN
 ---
 
 # HTML Hello World
 
-This sample demonstrates a tiny Hello World HTML app for [App Service](https://docs.microsoft.com/azure/app-service).
+This sample demonstrates a tiny Hello World HTML app for [Azure Load bancer](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview) [and CDN](https://docs.microsoft.com/en-us/azure/cdn/).
 
 # Contributing
 
